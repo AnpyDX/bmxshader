@@ -1,0 +1,3 @@
+[submodule "thirdparty/bmx"]
+	path = thirdparty/bmx
+	url = https://github.com/AnpyDX/BMX.git
